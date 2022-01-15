@@ -10,7 +10,7 @@
   "license": "MIT",
   "devDependencies": {
     "protobufjs": "^6.8.8",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "ts-protoc-gen": "^0.10.0"
   }
 }
